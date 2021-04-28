@@ -82,11 +82,4 @@ int main()
 1. Be at least eight characters long.
 2. Contain at least one uppercase and Contain at least one uppercase.
 3. Have at least one digit.
-
-Write a program that asks for a password and then verifies that it meets the stated criteria.
-If it does not, the program should display a message telling the user why and then ask for another password.
-The program should keep asking for the password until the password meets the criteria.
-
-The validation should be done on a separate function called validatePassword, which takes a string
-variable as parameter and returns an integer. It should return 0 if the password is valid and 1 if 
-it does not match the first criteria, 2 if it does not match the second criteria and 3 if it does not match the third criteria */
+*/
